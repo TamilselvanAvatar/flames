@@ -1,6 +1,6 @@
 # Flames
-  - The project was Developed using by
-    *Java
-    *Spring Boot
-    *JSP
+  - The project was Developed using by \
+	*Java* \
+	*Spring Boot* \
+	*JSP* \
   

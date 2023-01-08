@@ -24,7 +24,7 @@
 			if (res.equalsIgnoreCase("L")) {
 		%>
 		<center>
-			<img alt="Img" src="/resources/images/Love.jpeg">
+			<img alt="Img" src="/resources/images/Love.jpeg" wid>
 		</center>
 		<%
 			}
